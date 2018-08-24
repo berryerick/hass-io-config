@@ -1,0 +1,4 @@
+switch.lamp:
+      friendly_name: Lamp
+      icon: mdi:lamp
+      emulated_hue: true
